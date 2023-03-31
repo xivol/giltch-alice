@@ -22,4 +22,4 @@ fi
 $VIRTUALENV/bin/pip install -r requirements.txt
 
 # Run your glorious application
-$VIRTUALENV/bin/python3 aice01.py
+$VIRTUALENV/bin/python3 alice01.py
